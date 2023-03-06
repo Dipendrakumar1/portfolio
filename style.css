@@ -1,1 +1,27 @@
 
+body{
+margin: 0%;
+padding: 0%;    
+}
+body {
+    font-family: 'Sintony', sans-serif;
+	color: #e5e5e5;
+	font-size: 12px;
+	background: #bfbfbf;
+	line-height: 1;
+  }
+  .container {
+	margin: 10px auto;
+	display: table;
+	max-width: 1140px;
+	width: 100%;
+}
+  
+/* #bg-image{
+    background-image: url("/images/5651980.jpg");
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0%;
+    height: 100%;
+    padding-top: 0%;
+} */
