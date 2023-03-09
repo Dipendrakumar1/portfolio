@@ -95,3 +95,22 @@
 	  overflow-y: auto;
 	}
   }
+
+
+  .container {
+	margin: 10px auto;
+	display: table;
+	max-width: 1140px;
+	width: 100%;
+}
+.container:after, .container:before {
+	content: "" clear : both;
+}
+div1{
+/* background-image:url('/images/5651980.jpg');
+ */
+ background-color:dimgrey;
+height: 1000px;
+width: 100%;
+  border: 1px solid red;
+}
